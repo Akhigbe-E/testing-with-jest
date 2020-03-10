@@ -1,0 +1,19 @@
+{
+  "name": "test-with-jest-tryout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
